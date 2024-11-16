@@ -10,7 +10,7 @@ Group: U4225
 
 Author: Volkov Vladislav Alekseevich
 
-Lab: Lab1
+Lab: Lab2
 
 Date of create: 16.11.2024
 
